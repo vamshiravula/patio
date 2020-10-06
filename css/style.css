@@ -1,0 +1,84 @@
+
+h1 {
+    font-size: 30px;
+    font-family: 'Oxygen';
+    text-align: center;
+
+}
+
+h2 {
+    font-size: 24px;
+    font-family: 'Oxygen';
+
+}
+
+h3 {
+    font-size: 20px;
+    font-family: 'Oxygen';
+
+}
+
+h4 {
+    font-size: 18px;
+    font-family: 'Oxygen';
+
+}
+
+p {
+    font-size: 16px;
+    font-family: 'Roboto';
+}
+
+ul {
+    font-size: 16px;
+    font-family: 'Roboto';
+}
+
+.Tools {
+    margin: .5rem 0;
+    padding: .5rem;
+}
+
+.Patio {
+    margin: .5rem 0;
+    padding: .5rem;
+}
+
+.Instructions {
+    margin: .5rem 0;
+    padding: .5rem;
+}
+
+.Sources {
+    margin: .5rem 0;
+    padding: .5rem;    
+}
+
+
+.intro {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 90em;
+
+}
+
+.content, img {
+    display:inline-block;
+    margin-right: 2em;
+}
+
+.description {
+    width: 50em;
+}
+
+body {
+    background-image: linear-gradient(to bottom, rgb(194, 195, 199), rgba(161, 210, 243, 0.747)),
+    url('/kalyan-hw/img/stripe.jpg');
+    background-blend-mode: lighten;
+    height: auto;
+    background-size: 80%;
+    color: black;
+    padding: 20px;
+}
